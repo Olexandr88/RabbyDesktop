@@ -130,6 +130,7 @@ See our [docs and guides here](https://rabby.io/desktop/docs/installation) -->
 ## Community
 
 Join our Discord: https://discord.com/invite/seFBCWmUre
+Join our X: https://x.com/Rabby_io
 
 ## Maintainers
 
